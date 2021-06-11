@@ -2,6 +2,8 @@
     Mixins
 ============= */
 /* ---------------- Font Sizing ---------------- */
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lusitana&display=swap");
 html {
   font-size: 100%;
 }
@@ -379,6 +381,14 @@ ul li {
   }
 }
 
+h3 {
+  font-family: "Lusitana", serif;
+}
+
+p {
+  font-family: "Lusitana", serif;
+}
+
 /* =============
     Typography
 ============= */
@@ -398,4 +408,91 @@ p {
 
 .section-title {
   font-weight: 300;
+}
+
+#products div {
+  background-color: #EBF2E9;
+  width: 350px;
+  padding: 30px;
+  margin: 30px;
+  text-align: center;
+}
+
+div {
+  width: 0px;
+  padding: 0px;
+  margin: 20px;
+  align-self: center;
+}
+
+#locations {
+  background-color: #D5BD9B;
+  font-family: "Raleway", sans-serif;
+}
+
+#topnav {
+  width: 300px;
+  padding: 30px;
+  margin: 30px;
+  text-align: center;
+}
+
+#locations {
+  background-color: tan;
+  max-width: 450px;
+  padding: 30px;
+}
+
+#heero img {
+  width: 100%;
+}
+@media (min-width: 768px) {
+  #heero #heero section {
+    display: grid;
+    grid-template-columns: 16px auto 16px;
+    grid-template-areas: ". heero .";
+  }
+  #heero p {
+    max-width: 290px;
+    margin: 16px;
+  }
+}
+@media (min-width: 768px) and (min-width: 768px) {
+  #heero #heero section ul {
+    grid-area: heero-content;
+    display: grid;
+    grid-template-columns: 40% auto;
+  }
+  #heero p {
+    max-width: 290px;
+    margin: 16px;
+  }
+}
+@media (min-width: 768px) and (min-width: 1024px) {
+  #heero #heero section ul {
+    grid-template-columns: 50% auto;
+  }
+}
+
+/* =============
+    Buttons
+============= */
+button {
+  cursor: pointer;
+}
+
+#botones {
+  background-color: #EBF2E9;
+  border: none;
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 30 px;
+  transition: 0.25s;
+  width: 450px;
+  padding: 30px;
+  text-align: center;
+}
+#botones:hover {
+  background-color: tan;
+  color: #fff;
 }

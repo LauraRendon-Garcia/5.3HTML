@@ -1,0 +1,23 @@
+/* =============
+    Buttons
+============= */
+button {
+    cursor: pointer;
+}
+
+#botones{
+    background-color: #EBF2E9;
+    border: none;
+    font-size: rem-calc(16);
+    font-weight: 600;
+    padding: 30 px;
+    transition: 0.25s;
+    width: 450px;
+    padding: 30px;
+    text-align: center;
+
+    &:hover {
+        background-color: tan;
+        color: $white;
+    }
+}

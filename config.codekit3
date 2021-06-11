@@ -9,6 +9,18 @@
   ],
   "creatorBuild" : "34127",
   "files" : {
+    "\/deploy\/css\/styles-min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/css\/styles-min-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
     "\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -20,6 +32,110 @@
       "oAP" : "\/deploy\/css\/styles-min.css",
       "oF" : 0,
       "pg" : 0
+    },
+    "\/deploy\/img\/hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 216661,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/image1.jpg" : {
+      "ft" : 16384,
+      "iS" : 120135,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/image1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/image2.jpg" : {
+      "ft" : 16384,
+      "iS" : 122940,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/image2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/image3.jpg" : {
+      "ft" : 16384,
+      "iS" : 88326,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/image3.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/image4.jpg" : {
+      "ft" : 16384,
+      "iS" : 122778,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/image4.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/image5.jpg" : {
+      "ft" : 16384,
+      "iS" : 121591,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/image5.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/image6.jpg" : {
+      "ft" : 16384,
+      "iS" : 27974,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/image6.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/image7.jpg" : {
+      "ft" : 16384,
+      "iS" : 216661,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/image7.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/deploy\/index.html" : {
       "cB" : 0,
@@ -40,12 +156,84 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/design\/structure-tags.sketch" : {
+    "\/design\/homeworkDemo.sketch" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/design\/structure-tags.sketch",
+      "oAP" : "\/design\/homeworkDemo.sketch",
+      "oF" : 0
+    },
+    "\/dev\/content\/_button1.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/_button1.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/_follow.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/_follow.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/_h3.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/_h3.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/_hero.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/_hero.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/_location.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/_location.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/_nav.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/_nav.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/_newsletter.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/_newsletter.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/_products.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/_products.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/_search.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/_search.html",
       "oF" : 0
     },
     "\/dev\/global\/head.kit" : {
@@ -54,6 +242,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/global\/head.html",
+      "oF" : 0
+    },
+    "\/dev\/global\/header.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/global\/header.html",
       "oF" : 0
     },
     "\/dev\/global\/scripts.kit" : {
@@ -97,6 +293,20 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/dev\/scss\/base\/_footer.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/base\/_footer.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
     "\/dev\/scss\/base\/_normalize.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -125,7 +335,7 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/components\/_buttons.scss" : {
+    "\/dev\/scss\/components\/_button1.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -133,7 +343,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_buttons.css",
+      "oAP" : "\/dev\/scss\/components\/_button1.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -153,6 +363,62 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/dev\/scss\/components\/_hero.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_hero.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/components\/_images.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_images.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/components\/_location.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_location.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/components\/_nav.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_nav.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
     "\/dev\/scss\/components\/_navigation.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -162,6 +428,34 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_navigation.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/components\/_products.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_products.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/components\/_search.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_search.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -265,7 +559,7 @@
   },
   "projectAttributes" : {
     "creationDate" : 638898965.76008201,
-    "displayValue" : "HTML_HW-main",
+    "displayValue" : "5.3HTML",
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "brackets-koamaru",
     "iconImageWasSetByUser" : 0

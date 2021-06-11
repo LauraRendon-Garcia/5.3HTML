@@ -1,0 +1,38 @@
+// #heero {
+
+//         width: auto;
+//         text-align: center;
+//     }
+    
+#heero {
+    img {
+      width: 100%;
+    }
+    @media (min-width: 768px) {
+      #heero section {
+        display: grid;
+        grid-template-columns: 16px auto 16px;
+        grid-template-areas: ". heero .";
+      }
+      p{
+        max-width: 290px;
+        margin: 16px;
+      }
+    }
+    @media (min-width: 768px) and (min-width: 768px) {
+      #heero section ul {
+        grid-area: heero-content;
+        display: grid;
+        grid-template-columns: 40% auto;
+      }
+      p{
+        max-width: 290px;
+        margin: 16px;
+      }
+    }
+    @media (min-width: 768px) and (min-width: 1024px) {
+      #heero section ul {
+        grid-template-columns: 50% auto;
+      }
+    }
+}

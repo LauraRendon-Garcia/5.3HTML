@@ -8,3 +8,18 @@
 @import "base/_normalize";
 @import "base/_base";
 @import "base/_typography";
+
+//file imports
+@import "components/products";
+@import "components/_images";
+@import "base/_footer";
+
+//Google Fonts Imports
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lusitana&display=swap');
+
+//Sections Styles
+@import "components/_search";
+@import "components/_location";
+@import "components/_hero";
+@import "components/_button1";
